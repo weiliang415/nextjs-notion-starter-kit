@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'eb5aba1358444737990abeb3b6c005ab',
+  rootNotionPageId: '279853770291404d83b02643d586895b',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Transitive Bullshit',
-  domain: 'https://panoramic-slip-396.notion.site/pili-eb5aba1358444737990abeb3b6c005ab',
+  domain: 'https://panoramic-slip-396.notion.site/279853770291404d83b02643d586895b',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
