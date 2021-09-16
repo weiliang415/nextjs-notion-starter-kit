@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
+  name: 'pili-light up skills',
   domain: 'https://panoramic-slip-396.notion.site/279853770291404d83b02643d586895b',
-  author: 'Travis Fischer',
+  author: 'pili',
 
   // open graph metadata (optional)
   description: 'Example site description',
